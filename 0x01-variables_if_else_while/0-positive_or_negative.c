@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main-determine if random number is negative, positive or zero
+ *main-entry point
+ *main:print if random number is negative, positive or zero
  *
  * return (o) succes
  */
