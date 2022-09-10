@@ -6,7 +6,7 @@
  *main-determine if random number is negative, positive or zero
  *
  * return (o) succes
- * /
+ */
 
 int main(void)
 {
