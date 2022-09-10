@@ -1,9 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
+/**
+ *determine if random number is negative, positive or zero
+ */
 
-/* betty style doc for function main goes there */
 int main(void)
 {
 int n;
