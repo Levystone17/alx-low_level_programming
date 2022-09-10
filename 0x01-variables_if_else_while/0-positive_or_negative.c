@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *alx
+ *main-
  *main-determine if random number is negative, positive or zero
  *
  * return (o) succes
