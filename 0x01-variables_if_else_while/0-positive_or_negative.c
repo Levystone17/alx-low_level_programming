@@ -13,13 +13,13 @@ if (n > 0)
 {
 printf("if the number is greater than 0: %c \n", "is positive");
 }
-else if (n == 0)
+else if (n < 0)
 {
-printf("if the number is 0: %c \n", "is zero");
+printf("if the number is less than 0: %c \n", "is negatif");
 }
 else
 {
-printf("if the number is less than 0: %c \n", "is negatif");
+printf("if the number is 0: %c \n", "is zero");
 }
 return (0);
 }
