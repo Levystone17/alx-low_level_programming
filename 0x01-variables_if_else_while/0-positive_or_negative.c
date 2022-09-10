@@ -5,10 +5,10 @@
  *main-entry point
  *main:print if random number is negative, positive or zero
  *
- * return (o) succes
+ * return: o on succes
  */
 
-int main(void)
+void main(void)
 {
 
 int n;
