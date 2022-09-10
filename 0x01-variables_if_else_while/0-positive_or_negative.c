@@ -8,7 +8,7 @@
  * return: o on succes
  */
 
-void main(void)
+int main(void)
 {
 
 int n;
