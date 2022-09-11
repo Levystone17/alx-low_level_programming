@@ -1,0 +1,2 @@
+
+ist digit of %d is 0  and is %s\n", n, "0");lse if (n < 6 && n != 0)
