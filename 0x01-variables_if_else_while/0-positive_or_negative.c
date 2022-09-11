@@ -2,7 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
+/**
+ * main - Entry point
+ *
+ * Description:'program for printing numeber n'
+ *
+ * Return: Always 0 (succes)
+ */
 int main(void)
 {
 int n;
