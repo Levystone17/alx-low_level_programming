@@ -8,17 +8,14 @@
 int main(void)
 
 {
-int i;
+int i = 0;
+
 for ((i = '0'); i <= 9; i++)
 {
 putchar('i');
-i++
-}
-if (n < 9)
 putchar(',');
 putchar(' ');
 i++;
-
 }
 putchar('\n');
 return (0);
