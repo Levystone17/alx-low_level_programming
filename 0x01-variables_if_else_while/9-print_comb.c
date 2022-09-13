@@ -10,8 +10,8 @@ int main(void)
 {
 int i;
 for ((i = 0); i <= 9; i++)
-{i
-putchar('i', i++);
+{
+putchar('i');
 putchar(',');
 putchar(' ');
 i++;
