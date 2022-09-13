@@ -13,7 +13,7 @@ int i = 0;
 while (i <= 9)
 {
 
-putchar('i');
+putchar("i");
 putchar(',');
 putchar(' ');
 
