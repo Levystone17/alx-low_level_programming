@@ -10,10 +10,10 @@ int main(void)
 {
 int i = 0;
 
-while (i <= 9)
+while (i <= 9; i++)
 {
 
-putchar("i");
+putchar('i');
 putchar(',');
 putchar(' ');
 
