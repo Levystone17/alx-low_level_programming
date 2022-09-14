@@ -1,20 +1,21 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
-*print_alphabet - prints alphabet
-*
-*Return: always 0;
-*
-*/
-
+ * print_alphabet - prints alphabet
+ *
+ * Return: always 0;
+ *
+ */
 void print_alphabet(void)
 {
-char c = 'a';
-while (c <= 'z')
-putchar(c);
-c++;
-return;
+char i;
+
+for (i = 'a'; i <= 'z'; i++)
+{
+putchar(i);
+}
+putchar('\n');
+
 }
 /**
 *main - check the code for Holberton School students.
@@ -27,3 +28,4 @@ int main(void)
 print_alphabet();
 return (0);
 }
+
