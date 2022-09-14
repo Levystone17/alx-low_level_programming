@@ -14,6 +14,7 @@ char c = 'a';
 while (c <= 'z')
 putchar(c);
 c++;
+return;
 }
 /**
 *main - check the code for Holberton School students.
