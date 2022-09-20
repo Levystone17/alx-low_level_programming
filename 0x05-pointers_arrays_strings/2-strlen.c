@@ -1,4 +1,4 @@
-#include "m&in.h"
+#include "main.h"
 
 
 /**
@@ -7,11 +7,11 @@
  *
  * Return: The length of @str.
  */
-size_t _strlen(const char *str)
+size_t _strlen(const char *s)
 {
 	size_t length = 0;
 
-	while (*str++)
+	while (*s++)
 		length++;
 
 	return (length);
